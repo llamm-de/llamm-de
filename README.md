@@ -10,6 +10,6 @@ import json
 lukas = json.loads({
         "languages": ["Python", "Fortran", "Matlab", "C++"],
         "tools": ["VS Code", "PyCharm", "git", "Jupyter Notebooks", "gcc", "gdb", "Jenkins"],
-        "real-world": ["Guitar", "Mountaineering", "Sports climbing"]
+        "real-world": ["Guitar", "Running", "Mountaineering", "Sports climbing"]
     })
 ```
